@@ -36,8 +36,6 @@ All of the executables are inside IMF-Z8\x64\Release directory and you should se
 If you wanna disable the speedhack, find the cmd window of SpeedHackDllInjector and press any key to disable the speedhack effect.
 If you wanna stop the buying cards process, just move your mouse and the cmd window of BuyCardBot will close automatically.
 
-## Demo
-
 ## Reference
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
